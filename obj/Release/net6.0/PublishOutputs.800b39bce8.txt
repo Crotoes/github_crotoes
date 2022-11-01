@@ -1,0 +1,7 @@
+D:\webapp2\bin\Release\net6.0\publish\webapp2.exe
+D:\webapp2\bin\Release\net6.0\publish\appsettings.Development.json
+D:\webapp2\bin\Release\net6.0\publish\appsettings.json
+D:\webapp2\bin\Release\net6.0\publish\webapp2.dll
+D:\webapp2\bin\Release\net6.0\publish\webapp2.deps.json
+D:\webapp2\bin\Release\net6.0\publish\webapp2.runtimeconfig.json
+D:\webapp2\bin\Release\net6.0\publish\webapp2.pdb
